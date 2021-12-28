@@ -1,7 +1,6 @@
 # Face Emotion Recognition
 
-## FER- Using DeepFace and OpenCV
-In the below examples, we have recognized different facial emotions like happiness, sadness, anger etc. using Facebook’s DeepFace facial emotion recognition mode, VGG and OpenCV.<br>
+We have recognized different facial emotions like happiness, sadness, anger etc. using Facebook’s DeepFace facial emotion recognition mode, VGG and OpenCV.<br>
 
 ![Image](https://github.com/Prabhitha/FaceEmotionRecognition/blob/main/Output.png)
 
